@@ -1,14 +1,14 @@
-# ERAS
+# S2S
 The code for our paper ["Searching to Sparsify Tensor Decomposition for N-ary Relational Data"], which has been accepted by Webconf 2021.
 
 Readers are welcomed to fork this repository to reproduce the experiments and follow our work. Please kindly cite our paper
 
-  @article{di2021searching,
-    title={Searching to Sparsify Tensor Decomposition for N-ary Relational Data},
-    author={Di, Shimin and Yao, Quanming and Chen, Lei},
-    journal={arXiv preprint arXiv:2104.10625},
-    year={2021}
-  }
+    @article{di2021searching,
+      title={Searching to Sparsify Tensor Decomposition for N-ary Relational Data},
+      author={Di, Shimin and Yao, Quanming and Chen, Lei},
+      journal={arXiv preprint arXiv:2104.10625},
+      year={2021}
+    }
 
 
 
